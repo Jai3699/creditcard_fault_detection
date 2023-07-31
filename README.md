@@ -1,0 +1,2 @@
+This is a Machine Learning Project which detects whether the person is fraud or not.
+Random Forest Classifier Algorithm is used to predict the model because it gives the best accuracy among other algo like decision tree,Gaussian naive bayes,support vector classifier.
